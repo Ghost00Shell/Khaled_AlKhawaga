@@ -5,7 +5,7 @@
     <br>
     <br>
     <br>
-    <link rel = "icon" type = "image/png" href = "green_icon.png">
+    <img src=" green_icon.png" alt="green_icon.png" class="avatar"> 
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
     <h1 style="color:red">Ghost_Shell</h1>
