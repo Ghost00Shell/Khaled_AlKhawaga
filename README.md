@@ -13,5 +13,5 @@
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
      <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
-   <h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2>
+   <footer><h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2></footer>
 
