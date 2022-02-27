@@ -1,9 +1,4 @@
-.green_icon {
-  vertical-align: middle;
-  width: 100px;
-  height: 100px;
-  border-radius: 100%;
-}
+
 a:link    {color:#B24900;  text-decoration:none}
 a:visited {color:#B24900; text-decoration:none}
 a:hover   {color:#FF8633; text-decoration:underline} /* Yellow */
