@@ -5,7 +5,6 @@
     <br>
     <br>
     <br>
-    <img src=" green_icon.png" alt="green_icon.png" class="avatar"> 
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
     <h1 style="color:red">Ghost_Shell</h1>
@@ -13,7 +12,7 @@
     We are Anonymous.<br>
     We are Legion.<br>
     We do not Forgive.<br>
-    We do not Forget.<br>EXPECT US!!
+    We do not Forget.<br>EXPECT US!!<br>
     <br>
     <br>
     <br>
@@ -26,8 +25,7 @@
     <br>
     <br>
     <br>
-     <iframe src="https://player.vimeo.com/video/674516056?h=17744aefa5" width="400" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-    <script type="text/javascript" src="world.js"></script>
+<audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3">     <script type="text/javascript" src="world.js"></script>
     <script src="./world.js"></script>
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
