@@ -1,5 +1,10 @@
 <html>
     <center>
+     <h2 style="color:red">
+    We are Anonymous.
+    We are Legion.<br>
+    We do not Forgive.
+    We do not Forget.<br>EXPECT US!!<br>   
     <br>
     <br>
     <br>
@@ -52,10 +57,6 @@
     <br>
     <br>
     <br> 
-    <h2 style="color:red">
-    We are Anonymous.<br>
-    We are Legion.<br>
-    We do not Forgive.<br>
-    We do not Forget.<br>EXPECT US!!<br>
     <img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
+     <br>
     <h2 style="color:#00ff00">Copyrights &copy; 2022 All Rights Reserved To Ghost_Shell</h2>
