@@ -9,8 +9,9 @@
     We do not Forget.<br>EXPECT US!!
     <h2>
  <iframe src="https://player.vimeo.com/video/674516056?h=17744aefa5" width="400" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-        &nbsp;&nbsp;
+        <br>
     <img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
+        <br>
 <body>
     <script type="text/javascript" src="world.js"></script>
     <script src="./world.js"></script>
