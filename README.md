@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="world.css">
         <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png" alt="https://i.ibb.co/SmLz9Fr/GHOOST.png" class="shrinkToFit transparent" width="512" height="291">
 <body> 
-    </div><audio controls loop autoplay height="" width="">
+   <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
      <script type="text/javascript" src="world.js"></script>
     <script src="./world.js"></script>
