@@ -44,27 +44,8 @@
       <!-- -->
       <div id='mars-orbit'>
         <img id="mars"   src=" https://pngimg.com/uploads/mars_planet/mars_planet_PNG31.png ">
-      </div>
-
-
-      
-        
-    
-      <!-- Look α spacecraft!-->
-      <div id=''>
-        <img id="spacecraft"            src="https://upload.wikimedia.org/wikipedia/commons/9/94/Rosetta_spacecraft_(transparent_bg).png" alt="this is α spacecraft">
-      </div>
+        </div>
      
-          
-      <!--The astronaut is moving -->
-      <div id="container">
-        <div class='a'><img class="random-astro"
-             src="http://www.immediateentourage.com/ie/wp-content/uploads/2011/10/Astronaut+by+NASA+cropped+by+Immediate+Entourage2.png" alt="this is an astronaut-1"></div>
-        <div class='b'><img class="random-astro"
-             src="http://www.clipartqueen.com/image-files/astronaut.png" alt="this is an astronaut-2"></div>
-        <div class='c'><img class="random-astro"
-             src="http://www.clipartqueen.com/image-files/astronaut.png" alt="this is an astronaut-3"></div>
-      </div>   
 
     <script>alert("Hacked_By_Ghost_Shell")</script>
     <h2 style="color:#00ff00">Copyrights &copy; 2022 All Rights Reserved To Ghost_Shell</h2>
