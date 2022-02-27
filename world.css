@@ -17,6 +17,12 @@ html, body {
     /* The universe is black */
     background-color: black;  
 }
+div#container {height:500px;width:100%;}
+
+div.a , .b, .c{
+  position:fixed;    
+}
+
 
 
 
