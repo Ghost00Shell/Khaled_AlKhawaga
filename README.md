@@ -39,5 +39,5 @@
         </div><audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
      <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
-    <img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Ghost_Shell%20%E2%80%AB%E2%80%AC.png">
-   <h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2>
+    <div><img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Ghost_Shell%20%E2%80%AB%E2%80%AC.png"></div>
+   <div><h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2></div>
