@@ -6,8 +6,8 @@ a:hover   {color:#FF8633; text-decoration:underline} /* Yellow */
 /* ----------------------------- */
 html, body {
     /* The universe takes up all available space */
-    width: 20%;
-    height: 20%;
+    width: 100%;
+    height: 100%;
     
     background-image: url("https://static.pexels.com/photos/110854/pexels-photo-110854-medium.jpeg");
   
