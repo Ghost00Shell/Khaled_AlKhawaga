@@ -10,6 +10,9 @@
         <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
            <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <body> 
+    <script type="text/javascript" src="world.js"></script>
+    <script src="./world.js"></script>
+
         <div class="row"> <!-- for main -->
       <!-- Right below is an image of the sun -->
         <img class="responsive-img" id="sun" src="http://orig02.deviantart.net/5786/f/2013/025/7/1/free_sun_stock_image_by_lyra_elante-d5spggh.png" alt="this is a sun">
