@@ -18,5 +18,158 @@ html, body {
     background-color: black;  
 }
 
+#sun {
+    position: absolute;
+    /* Positions the top-left corner of the image to be *
+    /* in the middle of the box */
+    top: 50%;
+    left: 50%;
+    
+    /* Play with these numbers to see what it does */
+    height: 400px;
+    width: 400px;
+    margin-top: -230px; 
+    margin-left: -200px;
+    
+  
+}
+
+#earth {
+    /* Style my earth */
+    position: absolute;
+    top: 0;
+    left: 50%;
+
+    height: 40px;
+    width: 40px;
+    margin-left: -25px;
+    margin-top: -25px;
+}
+
+#earth-orbit {
+    position: absolute;
+    /* make a centered circle*/
+    top: 50%;
+    left: 50%;
+    
+    /* how small/big the movement is going to be*/
+    width: 320px;
+    height: 320px;
+    margin-top: -180px;
+    margin-left: -160px;
+
+    /* draw a circle 
+    border-width: 2px;   
+    border-style: dotted;
+    border-color: red; 
+    border-radius: 50%;
+    */
+    
+    /* It will rotate my orbit 360 degrees continuously. */
+     -webkit-animation: spin-right 10s linear infinite;
+     -moz-animation: spin-right 10s linear infinite;
+      -ms-animation: spin-right 10s linear infinite;
+       -o-animation: spin-right 10s linear infinite;
+          animation: spin-right 10s linear infinite;
+
+}
+
+
+/* ******************* | jupiter | ********************* */
+
+#jupiter{
+  width: 70px;
+  height: 70px;  
+}
+
+#jupiter-orbit{
+  position: absolute;
+    /* make a centered circle*/
+    top: 50%;
+    left: 50%;
+    
+    /* how small/big the movement is going to be*/
+    width: 600px;
+    height: 600px;
+    margin-top: -300px;
+    margin-left: -290px;
+
+    /* draw a circle 
+    border-width: 2px;   
+    border-style: dotted;
+    border-color: red; 
+    border-radius: 50%;
+    */
+    
+    /* It will rotate my orbit 360 degrees continuously. */
+     -webkit-animation: spin-right 12s linear infinite;
+     -moz-animation: spin-right 12s linear infinite;
+      -ms-animation: spin-right 12s linear infinite;
+       -o-animation: spin-right 12s linear infinite;
+          animation: spin-right 12s linear infinite;
+  
+}
+
+/* ******************* | mars | ********************* */
+
+#mars{
+  width: 25px;
+  height: 25px;  
+}
+
+#mars-orbit{
+  position: absolute;
+    /* make a centered circle*/
+    top: 50%;
+    left: 50%;
+    
+    /* how small/big the movement is going to be*/
+    width: 450px;
+    height: 450px;
+    margin-top: -230px;
+    margin-left: -230px;
+
+    /* draw a circle 
+    border-width: 2px;   
+    border-style: dotted;
+    border-color: green; 
+    border-radius: 50%;
+    */
+    
+    /* It will rotate my orbit 360 degrees continuously. */
+     -webkit-animation: spin-right 8s linear infinite;
+     -moz-animation: spin-right 8s linear infinite;
+      -ms-animation: spin-right 8s linear infinite;
+       -o-animation: spin-right 8s linear infinite;
+          animation: spin-right 8s linear infinite;
+  
+}
+
+/* ******************** | spinning | ********************** */
+/*custom css animation for spinning */
+@-webkit-keyframes spin-right {
+  100% {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes spin-right {
+  100% {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+div#container {height:500px;width:100%;}
+
+div.a , .b, .c{
+  position:fixed;    
+}
 
 
