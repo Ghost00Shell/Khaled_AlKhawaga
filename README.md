@@ -1,5 +1,6 @@
 <html>
     <center>
+    <body background="https://wallpapercave.com/wp/RMdbmli.jpg">    
     <link rel="stylesheet" href="darkmode.css">
     <h1 style="color:red">Ghost_Shell</h1>
     <h2 style="color:red">
