@@ -1,6 +1,5 @@
 <html>
     <center>
-    <body background="https://wallpapercave.com/wp/RMdbmli.jpg">    
     <link rel="stylesheet" href="darkmode.css">
     <h1 style="color:red">Ghost_Shell</h1>
     <h2 style="color:red">
@@ -11,7 +10,7 @@
     <h2>
  <iframe src="https://player.vimeo.com/video/674516056?h=17744aefa5" width="400" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     <img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
-<body>
+<body background="https://wallpapercave.com/wp/RMdbmli.jpg">
     <div class="tdnn">
        <div class="moon">
       </div>
