@@ -15,26 +15,11 @@
     <br>
     <br>
      <iframe src="https://player.vimeo.com/video/674516056?h=17744aefa5" width="400" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <script type="text/javascript" src="world.js"></script>
     <script src="./world.js"></script>
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
-  <div class="container-fluid text-center">
-       
-    <div class="row"> <!-- for title
-      <h1>  Title goes here </h1>
-      -->
-    </div> <!-- end title -->
-    
-    
-    
-    <!-- MAIN -->
     <div class="row"> <!-- for main -->
       <!-- Right below is an image of the sun -->
         <img class="responsive-img" id="sun" src="http://orig02.deviantart.net/5786/f/2013/025/7/1/free_sun_stock_image_by_lyra_elante-d5spggh.png" alt="this is a sun">
