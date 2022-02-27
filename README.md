@@ -1,5 +1,6 @@
 <html>
     <center>
+    <link rel="stylesheet" href="background.css">
     <h1 style="color:red">Ghost_Shell</h1>
     <h2 style="color:red">
     We are Anonymous.<br>
