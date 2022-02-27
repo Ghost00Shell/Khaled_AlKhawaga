@@ -49,7 +49,7 @@
       <div id='mars-orbit'>
         <img id="mars"   src=" https://pngimg.com/uploads/mars_planet/mars_planet_PNG31.png">
         </div>
-    <script>alert("It is our great pleasure to have you on board! A hearty welcome to you:relaxed:")</script>
+    <script>alert("It is our great pleasure to have you on board! A hearty welcome to you &#128526;")</script>
     <br>
     <br>
     <br>
