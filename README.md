@@ -7,13 +7,13 @@
     We do not Forget.<br>EXPECT US!!<br></h2>   
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
-        <h1 style="color:red">Ghost_Shell</h1>
+        <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png" alt="https://i.ibb.co/SmLz9Fr/GHOOST.png" class="shrinkToFit transparent" width="512" height="291">
 <body> 
     </div><audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
      <script type="text/javascript" src="world.js"></script>
     <script src="./world.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<img src="https://i.ibb.co/SmLz9Fr/GHOOST.png" alt="https://i.ibb.co/SmLz9Fr/GHOOST.png" class="shrinkToFit transparent" width="512" height="291">   <h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2>
+   <h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2>
      <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
 
