@@ -1,5 +1,10 @@
 <html>
     <center>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <link rel="stylesheet" href="world.css">
     <h1 style="color:red">Ghost_Shell</h1>
     <h2 style="color:red">
@@ -7,6 +12,11 @@
     We are Legion.<br>
     We do not Forgive.<br>
     We do not Forget.<br>EXPECT US!!
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <h2>
 <body>
     <br>
