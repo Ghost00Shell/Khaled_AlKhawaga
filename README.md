@@ -34,12 +34,11 @@
         src="https://2.bp.blogspot.com/-grGCMQsVb5U/UJurAJLCJhI/AAAAAAAAABc/iXmLFh-PVdw/s1600/planet-jupiter-large.gif" alt="this is the jupiter planet">
       </div>
       
-      <!-- -->
-      <div id='mars-orbit'>
+        <div id='mars-orbit'>
         <img id="mars"   src=" https://pngimg.com/uploads/mars_planet/mars_planet_PNG31.png">
         </div>
  <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
      <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
     <img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
-    <h2 style="color:#00ff00">Copyrights &copy; 2022 All Rights Reserved To Ghost_Shell</h2>
+    <h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2></body>
