@@ -20,4 +20,3 @@
     <script src="./darkmode.js"></script>
     <script>alert("Hacked_By_Ghost_Shell")</script>
     <h2 style="color:#00ff00">Copyrights &copy; 2022 All Rights Reserved To Ghost_Shell</h2>
-</body>
