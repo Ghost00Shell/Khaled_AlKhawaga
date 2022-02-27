@@ -4,13 +4,11 @@
     We are Anonymous.
     We are Legion.<br>
     We do not Forgive.
-    We do not Forget.<br>EXPECT US!!<br>   
+    We do not Forget.<br>EXPECT US!!<br></h2>   
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
         <h1 style="color:red">Ghost_Shell</h1>
-<body>
-     <audio controls loop autoplay height="" width="">
-<audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
+<body> 
     <br>
     <br>
     <br>
@@ -38,7 +36,8 @@
       
         <div id='mars-orbit'>
         <img id="mars"   src=" https://pngimg.com/uploads/mars_planet/mars_planet_PNG31.png">
-        </div>
+        </div><audio controls loop autoplay height="" width="">
+<audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
      <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
-    <"img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Ghost_Shell%20%E2%80%AB%E2%80%AC.png">
+    <img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Ghost_Shell%20%E2%80%AB%E2%80%AC.png">
    <h2 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h2>
