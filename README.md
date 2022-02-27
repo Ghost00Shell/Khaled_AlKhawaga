@@ -49,8 +49,9 @@
       <div id='mars-orbit'>
         <img id="mars"   src=" https://pngimg.com/uploads/mars_planet/mars_planet_PNG31.png">
         </div>
-      <div><embed src="Anonymous Hackers Song-We Are Anonymous.mp3" autostart=true loop=true></div>
-    <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
+ <audio controls loop autoplay height="" width="">
+      <source src="Anonymous Hackers Song-We Are Anonymous.mp3" type="audio/mp3" />
+    </audio>    <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
     <br>
     <br>
     <br>
