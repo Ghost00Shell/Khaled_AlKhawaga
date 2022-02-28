@@ -8,29 +8,13 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
         <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
-        <div class="divider"></div>
-        <div class="social-icons">
-          <a href="https://www.facebook.com/"
-            ><img
-              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/facebook.svg?raw=true"
-              alt=""
-          /></a>
-          <a href="https://twitter.com/"
-            ><img
-              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/twitter.svg?raw=true"
-              alt=""
-          /></a>
-          <a href="https://www.youtube.com/"
-            ><img
-              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/youtube.svg?raw=true"
-              alt=""
-          /></a>
-          <a href="https://www.instagram.com/"
-            ><img
-              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/instagram.svg?raw=true"
-              alt=""
-          /></a>
-        </div>
+        <div id="social"><a class="facebookBtn smGlobalBtn" href="https://www.facebook.com/" ></a>
+			<a class="twitterBtn smGlobalBtn" href="https://twitter.com/" ></a>
+			<a class="youtubeBtn smGlobalBtn" href="https://www.youtube.com/" ></a>
+			<a class="instagramBtn smGlobalBtn" href="https://www.instagram.com/" ></a>
+			<a class="githubBtn smGlobalBtn" href="https://github.com/" ></a>
+		</div>
+	
            <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <body> 
    <audio controls loop autoplay height="" width="">
