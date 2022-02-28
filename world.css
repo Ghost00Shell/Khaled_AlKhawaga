@@ -22,24 +22,77 @@ div#container {height:500px;width:100%;}
 div.a , .b, .c{
   position:fixed;    
 }
-
-
-body {
-  background-color: fixed;
-  display: grid;
-  height: 100vh;
-  margin: 0;
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+#social {
+  margin: 20px 10px;
+  text-align: center;
   place-items: center center;
 }
 .footer-lists {
   display: flex;
   justify-content: space-between;
 }
-.social-icons img {
-  width: 40px;
-  height: 40px;
-  margin-right: 25px;
-  background-color: red;
+
+
+.smGlobalBtn{ /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    box-shadow: 0 2px 2px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 25px;
+    -moz-border-radius:25px;
+    -webkit-border-radius:25px;
 }
 
+/* facebook button class*/
+.facebookBtn{
+    background: #4060A5;
+}
+
+.facebookBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f09a"; /* add facebook icon */
+}
+
+.facebookBtn:hover{
+    color: #4060A5;
+    background: #fff;
+}
+
+/* twitter button class*/
+.twitterBtn{
+    background: #00ABE3;
+}
+
+.twitterBtn:before{
+      font-family: "FontAwesome";
+      content: "\f099"; /* add twitter icon */
+}
+
+.twitterBtn:hover{
+      color: #00ABE3;
+      background: #fff;
+}
+.youtubeBtn{
+    background: #4060A5;
+}
+
+.youtubeBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f09a"; /* add facebook icon */
+}
+
+.youtubeBtn:hover{
+    color: #4060A5;
+    background: #FF0000;
+}
 
