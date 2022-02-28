@@ -8,12 +8,30 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
         <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
-        <div class="social">
-          <a href="https://github.com/"><i class="fab fa-github fa-2x"></i></a>
-          <a href="https://www.facebook.com/"><i class="fab fa-facebook fa-2x"></i></a>
-          <a href="https://www.instagram.com/"><i class="fab fa-instagram fa-2x"></i></a>
-          <a href="https://www.instagram.com/"><i class="fab fa-twitter fa-2x"></i></a>
+        <div class="divider"></div>
+        <div class="social-icons">
+          <a href="#"
+            ><img
+              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/facebook.svg?raw=true"
+              alt=""
+          /></a>
+          <a href="#"
+            ><img
+              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/twitter.svg?raw=true"
+              alt=""
+          /></a>
+          <a href="#"
+            ><img
+              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/youtube.svg?raw=true"
+              alt=""
+          /></a>
+          <a href="#"
+            ><img
+              src="https://github.com/bradtraversy/hulu-webpage-clone/blob/main/img/instagram.svg?raw=true"
+              alt=""
+          /></a>
         </div>
+      </div>
            <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <body> 
    <audio controls loop autoplay height="" width="">
