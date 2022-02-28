@@ -25,7 +25,7 @@ div.a , .b, .c{
 
 
 body {
-  background-color: white;
+  background-color: black;
   display: grid;
   height: 100vh;
   margin: 0;
