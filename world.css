@@ -16,8 +16,11 @@ html, body {
 div#container {height:500px;width:100%;}
 
 div.a , .b, .c{
-  position:fixed;    
-
+  position:fixed;  
+    
+ion-icon {
+  font-size: 100px;
+}
 .social-icon {
   font-size: 200px;    
   text-align: center;
