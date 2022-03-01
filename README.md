@@ -15,6 +15,7 @@
 <a class="li.social-icon" href="https://www.youtube.com/"><ion-icon name="logo-youtube"></ion-icon></a>
 <a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
 <body> 
+    canvas(id='canv', width=500, height=200)
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
