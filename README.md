@@ -8,12 +8,12 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
       <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
-<div class="li.social-icon">     <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
+     <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <a class="li.social-icon" href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
 <a class="li.social-icon" href="https://twitter.com/"><ion-icon name="logo-twitter"></ion-icon></a>
 <a class="li.social-icon" href="https://www.instagram.com/"><ion-icon name="logo-instagram"></ion-icon></a>
 <a class="li.social-icon" href="https://www.youtube.com/"><ion-icon name="logo-youtube"></ion-icon></a>
-<a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a></div> 
+<a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
         
          <div class="social-buttons">        
         <!-- facebook  Button -->
@@ -64,7 +64,6 @@
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </div> 
                 </a>
-        </div>
         </div>
 <body> 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
