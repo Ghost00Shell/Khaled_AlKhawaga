@@ -46,31 +46,52 @@ function calcSpeed(prev, next) {
 }
 
 
-const canvas = document.getElementById('canv');
-const ctx = canvas.getContext('2d');
+var s=window.screen;
+    var width = q.width=s.width;
+    var height = q.height;
+    var yPositions = Array(300).join(0).split('');
+    var ctx=q.getContext('2d');
+    
+    function shuffle(array) {
+      var m = array.length, t, i;
+      while (m) {
+        i = Math.floor(Math.random() * m--);
+        t = array[m], array[m] = array[i], array[i] = t;
+      }
+      return array;
+    }
+    // var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+    var alphabet = "01".split("");
+    var draw = function () {
+      ctx.fillStyle='rgba(0,0,0,.05)';
+      ctx.fillRect(0,0,width,height);
+      ctx.fillStyle='#0F0';
+      ctx.font = '10pt Georgia';
+      yPositions.map(function(y, index){
+       text = String.fromCharCode(1e2+Math.random()*33);   
+        //text = shuffle(alphabet)[0]     ;
+        x = (index * 10)+10;
+        q.getContext('2d').fillText(text, x, y);
+        if(y > 100 + Math.random()*1e4)
+        {
+          yPositions[index]=0;
+        }
+        else
+        {
+          yPositions[index] = y + 10;
+        }
+      });
+    };
 
-const w = canvas.width = document.body.offsetWidth;
-const h = canvas.height = document.body.offsetHeight;
-const cols = Math.floor(w / 20) + 1;
-const ypos = Array(cols).fill(0);
+    RunMatrix();
 
-ctx.fillStyle = '#000';
-ctx.fillRect(0, 0, w, h);
+    function RunMatrix()
+    {
+      if(typeof Game_Interval != "undefined") clearInterval(Game_Interval);
+            Game_Interval = setInterval(draw, 33);
+    }
 
-function matrix () {
-  ctx.fillStyle = '#0001';
-  ctx.fillRect(0, 0, w, h);
-  
-  ctx.fillStyle = '#0f0';
-  ctx.font = '15pt monospace';
-  
-  ypos.forEach((y, ind) => {
-    const text = String.fromCharCode(Math.random() * 128);
-    const x = ind * 20;
-    ctx.fillText(text, x, y);
-    if (y > 100 + Math.random() * 10000) ypos[ind] = 0;
-    else ypos[ind] = y + 20;
-  });
-}
-
-setInterval(matrix, 50);
+    function StopMatrix()
+    {
+      clearInterval(Game_Interval);
+    }
