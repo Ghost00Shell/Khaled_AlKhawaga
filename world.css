@@ -22,11 +22,9 @@ div#container {height:500px;width:100%;}
 div.a , .b, .c{
   position:fixed;    
 
-#social {
+.social-icon {
   margin: 20px 10px;
   text-align: center;
-}
-.wp-icon {
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -34,24 +32,25 @@ div.a , .b, .c{
   line-height: 50px;
   vertical-align: middle;
   color: #fff;
-  margin-right: 5px;
+  margin-right: 5px;  
 }
 
-.fa-facebook-f {
+
+logo-facebook {
   background: #3B5998;
 }
 
-.fa-twitter {
+logo-twitter {
   background: #1DA1F2;
 }
-.fa-instagram {
+logo-instagram {
   background: #d6249f;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
   box-shadow: 0px 3px 10px rgba(0,0,0,.25);
 }
-.fa-youtube {
+logo-youtube {
   background: #FF0000;
 }
-.fa-github {
+logo-github {
     background-color: #5a32a3;
 }
