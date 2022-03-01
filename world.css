@@ -1,9 +1,10 @@
 audio { display:none;}
-
-
+a:link    {color:#FF0000;  text-decoration:none}
+a:hover   {color:#FF0000; text-decoration:underline}
+b:social-icon {color:#FF0000;}
+c:social-icon {font-size: 100px;}
 /* ----------------------------- */
 html, body {
-    /* The universe takes up all available space */
     width: 100%;
     height: 100%;
     
