@@ -11,8 +11,9 @@
       <ion-icon size="large"></ion-icon>
       <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
       <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
-<a class="ion-icon" href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
-<a class="ion-icon" href="https://twitter.com/"><ion-icon name="logo-twitter"></ion-icon></a>
+      <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+<a class="social-icon" href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
+<a class="-icon" href="https://twitter.com/"><ion-icon name="logo-twitter"></ion-icon></a>
 <a class="ion-icon" href="https://www.instagram.com/"><ion-icon name="logo-instagram"></ion-icon></a>
 <a class="ion-icon" href="https://www.youtube.com/"><ion-icon name="logo-youtube"></ion-icon></a>
 <a class="ion-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
