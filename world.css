@@ -1,7 +1,5 @@
 audio { display:none;}
-a:link    {color:#B24900;  text-decoration:none}
-a:visited {color:#B24900; text-decoration:none}
-a:hover   {color:#FF8633; text-decoration:underline} /* Yellow */
+
 
 /* ----------------------------- */
 html, body {
@@ -22,13 +20,9 @@ div#container {height:500px;width:100%;}
 div.a , .b, .c{
   position:fixed;    
 
-social-icon {
+.social-icon {
   font-size: 100px;    
   text-align: center;
-  width: 100px;
-  height: 100px;
-  text-align: center;
-  color: #fff;
 }
     
 logo-facebook {
