@@ -2,6 +2,7 @@ audio { display:none;}
 a:link    {color:#B24900;  text-decoration:none}
 a:visited {color:#B24900; text-decoration:none}
 a:hover   {color:#FF8633; text-decoration:underline} /* Yellow */
+li.social-icon i { font-size: 50px; }
 
 /* ----------------------------- */
 html, body {
@@ -23,7 +24,7 @@ div.a , .b, .c{
   position:fixed;    
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 html,body{
-  margin:0;
+  margin:10px;
   height:100%;
   font-family: 'Montserrat', sans-serif;
 }
@@ -34,34 +35,35 @@ html,body{
   background: linear-gradient(0deg, rgba(34,195,104,1) 0%, rgba(45,77,253,1) 100%);
 }
 
-logo-facebook {
-    font-size: 22px;
-    padding-top: 9px;
+li.logo-facebook {
+    padding-top: 10px;
     border-color: #3b5998;
     background-color: #3b5998;
-    color: #ffffff;}
-
-logo-twitter {
+    color: #ffffff;
     font-size: 22px;
+    }
+
+li.logo-twitter {
     padding-top: 10px;
     padding-left: 2px;
     border-color: #55acee;
     background-color: #55acee;
     color: #ffffff;
+    font-size: 22px;
     }
-logo-instagram {
-  background: #d6249f;
+li.logo-instagram {
+  color: #d6249f;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
   box-shadow: 0px 3px 10px rgba(0,0,0,.25);
 }
-logo-youtube {
-  font-size: 22px;
+li.logo-youtube {
   padding-top: 9px;
   padding-left: 0px;
-  background: #FF0000;
+  color: #FF0000;
+  font-size: 22px;
 }
-logo-github {
-    font-size: 22px;
+li.logo-github {
     padding-top: 9px;
-    background-color: #5a32a3;
+    color: #5a32a3;
+    font-size: 22px;
 }
