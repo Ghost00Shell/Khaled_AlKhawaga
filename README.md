@@ -7,7 +7,7 @@
     We do not Forget.<br>EXPECT US!!<br></h2>   
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
-        <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
+        <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
 <ul>
 <li><a href="https://www.facebook.com/" class="fa wp-icon fa-facebook-f fa-lg"></a></i>
 <li><a href="https://twitter.com/"class="fa wp-icon fa-twitter fa-lg"></a></i>
