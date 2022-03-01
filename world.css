@@ -1,7 +1,6 @@
 audio { display:none;}
 a:link    {color:#FF0000;  text-decoration:none}
-b:social-icon {color:#FF0000;}
-c:social-icon {font-size: 100px;}
+c:social-icon {font-size: 200px;}
 /* ----------------------------- */
 html, body {
     width: 100%;
@@ -12,7 +11,7 @@ html, body {
    background-size: contain;
    background-attachment: fixed;
     /* The universe is black */
-    background-color: black;  
+    background-color: white;  
 }
 div#container {height:500px;width:100%;}
 
@@ -20,7 +19,7 @@ div.a , .b, .c{
   position:fixed;    
 
 .social-icon {
-  font-size: 100px;    
+  font-size: 200px;    
   text-align: center;
 }
     
