@@ -21,6 +21,7 @@ div#container {height:500px;width:100%;}
 
 div.a , .b, .c{
   position:fixed;    
+}
 ul {
     list-style: none;
 }
