@@ -8,14 +8,14 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
         <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
-        <div id="social"><a class="facebookBtn smGlobalBtn" href="https://www.facebook.com/" ></a>
-			<a class="twitterBtn smGlobalBtn" href="https://twitter.com/" ></a>
-			<a class="youtubeBtn smGlobalBtn" href="https://www.youtube.com/" ></a>
-			<a class="instagramBtn smGlobalBtn" href="https://www.instagram.com/" ></a>
-			<a class="githubBtn smGlobalBtn" href="https://github.com/" ></a>
-		</div>
-	
-           <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
+       <ul>
+<li><a href="https://www.facebook.com/" class="fa wp-icon fa-facebook-f fa-lg"></a></i>
+<li><a href="https://twitter.com/"class="fa wp-icon fa-twitter fa-lg"></a></i>
+<li><a href="https://www.instagram.com/"class="fa wp-icon fa-instagram fa-lg"></a></i>
+<li><a href="https://www.youtube.com/"class="fa wp-icon fa-youtube fa-lg"></a></i>
+<li><a href="https://github.com/" class="fa wp-icon fa-github fa-lg"></a></li>
+</ul>
+       <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <body> 
    <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
