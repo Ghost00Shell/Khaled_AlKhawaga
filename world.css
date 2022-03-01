@@ -22,7 +22,7 @@ div#container {height:500px;width:100%;}
 div.a , .b, .c{
   position:fixed;    
 }
-
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 #social {
   margin: 20px 10px;
   text-align: center;
