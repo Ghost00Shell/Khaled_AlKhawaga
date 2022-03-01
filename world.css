@@ -1,27 +1,4 @@
-audio { display:none;}
-a:link    {color:#B24900;  text-decoration:none}
-a:visited {color:#B24900; text-decoration:none}
-a:hover   {color:#FF8633; text-decoration:underline} /* Yellow */
 
-/* ----------------------------- */
-html, body {
-    /* The universe takes up all available space */
-    width: 100%;
-    height: 100%;
-    
-    background-image: url("https://static.pexels.com/photos/110854/pexels-photo-110854-medium.jpeg");
-  
-   /* image in the container */
-   background-size: contain;
-   background-attachment: fixed;
-    /* The universe is black */
-    background-color: black;  
-}
-div#container {height:500px;width:100%;}
-
-div.a , .b, .c{
-  position:fixed;    
-}
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 #social {
   margin: 20px 10px;
