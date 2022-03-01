@@ -10,11 +10,11 @@
         <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
 <div class="fa wp-icon">
 <ul class="fa wp-icon">    
-<li><a href="https://www.facebook.com/" class="fa wp-icon fa-facebook-f fa-lg"></a></i>
-<li><a href="https://twitter.com/"class="fa wp-icon fa-twitter fa-lg"></a></li>
-<li><a href="https://www.instagram.com/"class="fa wp-icon fa-instagram fa-lg"></a></i>
-<li><a href="https://www.youtube.com/"class="fa wp-icon fa-youtube fa-lg"></a></i>
-<li><a href="https://github.com/" class="fa wp-icon fa-github fa-lg"></a></li>
+<a href="https://www.facebook.com/" class="fa wp-icon fa-facebook-f fa-lg"></a>
+<a href="https://twitter.com/"class="fa wp-icon fa-twitter fa-lg"></a>
+<a href="https://www.instagram.com/"class="fa wp-icon fa-instagram fa-lg"></a>
+<a href="https://www.youtube.com/"class="fa wp-icon fa-youtube fa-lg"></a>
+<a href="https://github.com/" class="fa wp-icon fa-github fa-lg"></a>
 </ul>
 </div>
        <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
