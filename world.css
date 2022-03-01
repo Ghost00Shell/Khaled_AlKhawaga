@@ -21,78 +21,41 @@ div#container {height:500px;width:100%;}
 
 div.a , .b, .c{
   position:fixed;    
+ul {
+    list-style: none;
 }
-@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
-#social {
-  margin: 20px 10px;
+
+ul li {
+    margin:5px 20px;
+    float:left;
+}
+
+.wp-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
   text-align: center;
-  place-items: center center;
-}
-.footer-lists {
-  display: flex;
-  justify-content: space-between;
-}
-
-
-.smGlobalBtn{ /* global button class */
-    display: inline-block;
-    position: relative;
-    cursor: pointer;
-    width: 50px;
-    height: 50px;
-    box-shadow: 0 2px 2px #999;
-    padding: 0px;
-    text-decoration: none;
-    text-align: center;
-    color: #fff;
-    font-size: 25px;
-    font-weight: normal;
-    line-height: 2em;
-    border-radius: 25px;
-    -moz-border-radius:25px;
-    -webkit-border-radius:25px;
+  line-height: 50px;
+  vertical-align: middle;
+  color: #fff;
+  margin-right: 5px;
 }
 
-/* facebook button class*/
-.facebookBtn{
-    background: #4060A5;
+.fa-facebook-f {
+  background: #3B5998;
 }
 
-.facebookBtn:before{ /* use :before to add the relevant icons */
-    font-family: "FontAwesome";
-    content: "\f09a"; /* add facebook icon */
+.fa-twitter {
+  background: #1DA1F2;
 }
-
-.facebookBtn:hover{
-    color: #4060A5;
-    background: #fff;
+.fa-instagram {
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
 }
-
-/* twitter button class*/
-.twitterBtn{
-    background: #00ABE3;
+.fa-youtube {
+  background: #FF0000;
 }
-
-.twitterBtn:before{
-      font-family: "FontAwesome";
-      content: "\f099"; /* add twitter icon */
+.fa-github {
+    background-color: #5a32a3;
 }
-
-.twitterBtn:hover{
-      color: #00ABE3;
-      background: #fff;
-}
-.youtubeBtn{
-    background: #4060A5;
-}
-
-.youtubeBtn:before{ /* use :before to add the relevant icons */
-    font-family: "FontAwesome";
-    content: "\f09a"; /* add youtube icon */
-}
-
-.youtubeBtn:hover{
-    color: #4060A5;
-    background: #FF0000;
-}
-
