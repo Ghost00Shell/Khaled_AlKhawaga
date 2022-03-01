@@ -23,21 +23,16 @@ div.a , .b, .c{
   position:fixed;    
 
 social-icon {
-  margin: 200px 200px;
+  font-size: 100px;    
   text-align: center;
   width: 100px;
   height: 100px;
-  border-radius: 100%;
   text-align: center;
-  line-height: 50px;
-  vertical-align: middle;
   color: #fff;
-  margin-right: 200px;
-  background-size: 500% 500%;
 }
     
 logo-facebook {
-  font-size: 50px;    
+  font-size: 100px;    
   background: #3B5998;
   width: 100px;
   height: 100px;
@@ -45,7 +40,7 @@ logo-facebook {
 }
 
 logo-twitter {
-  font-size: 50px;  
+  font-size: 100px;  
   background: #1DA1F2;
   width: 100px;
   height: 100px;
@@ -53,7 +48,7 @@ logo-twitter {
 }
     
 logo-instagram {
-  font-size: 50px;  
+  font-size: 100px;  
   background: #d6249f;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
   box-shadow: 0px 3px 10px rgba(0,0,0,.25);
@@ -63,7 +58,7 @@ logo-instagram {
 }
     
 logo-youtube {
-  font-size: 50px;  
+  font-size: 100px;  
   background: #FF0000;
   width: 100px;
   height: 100px;
@@ -71,7 +66,7 @@ logo-youtube {
 }
     
 logo-github {
-    font-size: 50px;
+    font-size: 100px;
     background-color: #5a32a3;
     width: 100px;
     height: 100px;
