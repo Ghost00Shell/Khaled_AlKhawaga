@@ -21,15 +21,6 @@ div#container {height:500px;width:100%;}
 
 div.a , .b, .c{
   position:fixed;    
-}
-ul {
-    list-style: none;
-}
-
-ul li {
-    margin:5px 20px;
-    float:left;
-}
 
 .wp-icon {
   width: 50px;
