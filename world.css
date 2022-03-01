@@ -21,7 +21,7 @@ div#container {height:500px;width:100%;}
 
 div.a , .b, .c{
   position:fixed;    
-
+}
 .social-icon {
   margin: 200px 200px;
   text-align: center;
@@ -42,6 +42,8 @@ logo-facebook {
   width: 100px;
   height: 100px;
   background-size: 100% 100%;
+      border-radius: 100%;
+
 }
 
 logo-twitter {  
@@ -49,6 +51,8 @@ logo-twitter {
   width: 100px;
   height: 100px;
   background-size: 100% 100%;
+      border-radius: 100%;
+
 }
 logo-instagram {
   background: #d6249f;
@@ -57,16 +61,21 @@ logo-instagram {
   width: 100px;
   height: 100px;
   background-size: 100% 100%;  
+      border-radius: 100%;
+
 }
 logo-youtube {
   background: #FF0000;
   width: 100px;
   height: 100px;
   background-size: 100% 100%;  
+      border-radius: 100%;
+
 }
 logo-github {
     background-color: #5a32a3;
     width: 100px;
     height: 100px;
     background-size: 100% 100%;
+      border-radius: 100%;
 }
