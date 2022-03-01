@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="world.css">
         <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
       <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
+      <style class="social-icon" size=200;></style>
 <a class="social-icon" href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
 <a class="social-icon" href="https://twitter.com/"><ion-icon name="logo-twitter"></ion-icon></a>
 <a class="social-icon" href="https://www.instagram.com/"><ion-icon name="logo-instagram"></ion-icon></a>
