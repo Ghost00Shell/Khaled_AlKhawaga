@@ -28,17 +28,11 @@ div.a , .b, .c{
 logo-facebook {
   font-size: 100px;    
   background: #3B5998;
-  width: 100px;
-  height: 100px;
-  background-size: 100% 100%;
 }
-
+    
 logo-twitter {
   font-size: 100px;  
   background: #1DA1F2;
-  width: 100px;
-  height: 100px;
-  background-size: 100% 100%;
 }
     
 logo-instagram {
@@ -46,23 +40,14 @@ logo-instagram {
   background: #d6249f;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
   box-shadow: 0px 3px 10px rgba(0,0,0,.25);
-  width: 100px;
-  height: 100px;
-  background-size: 100% 100%;  
 }
     
 logo-youtube {
   font-size: 100px;  
   background: #FF0000;
-  width: 100px;
-  height: 100px;
-  background-size: 100% 100%;  
 }
     
 logo-github {
     font-size: 100px;
-    background-color: #5a32a3;
-    width: 100px;
-    height: 100px;
-    background-size: 100% 100%;
+    background: #5a32a3;
 }
