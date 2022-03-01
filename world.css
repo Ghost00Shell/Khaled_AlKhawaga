@@ -1,6 +1,5 @@
 audio { display:none;}
 a:link    {color:#FF0000;  text-decoration:none}
-a:hover   {color:#FF0000; text-decoration:underline}
 b:social-icon {color:#FF0000;}
 c:social-icon {font-size: 100px;}
 /* ----------------------------- */
@@ -8,7 +7,6 @@ html, body {
     width: 100%;
     height: 100%;
     
-    background-image: url("https://static.pexels.com/photos/110854/pexels-photo-110854-medium.jpeg");
   
    /* image in the container */
    background-size: contain;
