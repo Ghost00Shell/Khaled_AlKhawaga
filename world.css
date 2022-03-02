@@ -9,7 +9,8 @@ html, body {
     /* The universe takes up all available space */
     width: 100%;
     height: 100%;
-    
+  font-size: 100%;
+
     background-image: url("https://static.pexels.com/photos/110854/pexels-photo-110854-medium.jpeg");
   
    /* image in the container */
