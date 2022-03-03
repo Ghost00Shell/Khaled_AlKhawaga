@@ -16,7 +16,7 @@ font-size: 50px;
    background-attachment: fixed;
     /* The universe is black */
     background-color: black;  
-
+}
 
 ul {
   position:absolute; bottom: 10px; left: 0;
@@ -27,5 +27,6 @@ ul {
   margin:0;
   padding:0;
   display:flex;
+    font-size: 50px;
 }
     
