@@ -7,13 +7,18 @@
     We do not Forget.<br>EXPECT US!!<br></h2>   
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<nav class="social">
+          <ul>
+             <li><a href="https://www.facebook.com/">Facebook <i class="fa fa-facebook"></i></a></li>
+              <li><a href="https://twitter.com/">Twitter<i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.instagram.com/">Instagram<i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://www.youtube.com/">Youtube<i class="fa fa-youtube"></i></a></li>
+            <li><a href="https://github.com/">Github<i class="fa fa-github"></i></a></li>
+              </ul>
+      </nav> 
       <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
      <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
-<a class="li.social-icon" href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
-<a class="li.social-icon" href="https://twitter.com/"><ion-icon name="logo-twitter"></ion-icon></a>
-<a class="li.social-icon" href="https://www.instagram.com/"><ion-icon name="logo-instagram"></ion-icon></a>
-<a class="li.social-icon" href="https://www.youtube.com/"><ion-icon name="logo-youtube"></ion-icon></a>
-<a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
 <body> 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
