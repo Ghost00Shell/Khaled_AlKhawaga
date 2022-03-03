@@ -20,12 +20,7 @@ html, body {
     /* The universe is black */
     background-color: black;  
 }
-ul li a {
-  position: bottom;
-  width:60px;
-  height:60px;
-  display:block;
-  text-align:center;}
+
 ul {
   font-size: 50px;  
   position:bottom;
