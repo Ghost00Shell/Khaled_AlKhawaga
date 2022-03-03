@@ -11,14 +11,13 @@
       <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
      <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <body> 
- <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"><div class="social-container">
-    <ul class="social-icons">
-      <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
-      <li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-        <li><a href="https://www.youtube.com/"><i class="fa fa-youtube"></i></a></li>
-            <li><a href="https://github.com/"><i class="fa fa-github"></i></a></li>
-    </ul>
+  <ul>
+  <a href="https://www.facebook.com/"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://www.instagram.com/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+  <a href="https://www.youtube.com/"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+  <a href="https://github.com/"><i class="fab fa-github" aria-hidden="true"></i></a>
+</ul>    
     <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
      <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
