@@ -22,7 +22,7 @@ html, body {
 
 ul {
   text-align: center;
-  position: relative; bottom: 10px; left: 0;
+  position: relative; bottom: 0; left: 0;
   width: 100%;
   font-size: 50px; 
 }
