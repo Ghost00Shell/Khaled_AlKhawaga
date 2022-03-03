@@ -11,8 +11,7 @@
       <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
      <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <body> 
- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet">
-<div class="social-container">
+ <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"><div class="social-container">
     <ul class="social-icons">
       <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
       <li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
