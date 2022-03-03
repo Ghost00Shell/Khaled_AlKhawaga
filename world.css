@@ -2,14 +2,14 @@ audio { display:none;}
 a:link    {color:#FF0000;  text-decoration:none}
 a:visited {color:#FF0000; text-decoration:none}
 a:hover   {color:#FF0000; text-decoration:underline} /* Yellow */
-i { font-size: 20px; }
-li.social-icon i { font-size: 20px; }
+i { font-size: 50px; }
+li.social-icon i { font-size: 50px; }
 /* ----------------------------- */
 html, body {
     /* The universe takes up all available space */
     width: 100%;
     height: 100%;
-  font-size: 20%;
+  font-size: 50%;
 
     background-image: url("https://static.pexels.com/photos/110854/pexels-photo-110854-medium.jpeg");
   
@@ -23,20 +23,9 @@ html, body {
     /* The universe takes up all available space */
     width: 100%;
     height: 100%;
-  font-size: 20%;
-  
-ul {
-  font-size: 20px;  
-  position:absolute;
-  top:50%;
-  left:50%;
-  transform: translate(-50%, -50%);
-  margin:0;
-  padding:0;
-  display:flex;
-}
-    
-    logo-facebook {
+  font-size: 100%;
+
+logo-facebook {
     padding-top: 10px;
     border-color: #3b5998;
     background-color: #3b5998;
@@ -68,5 +57,18 @@ logo-github {
     color: #5a32a3;
     font-size: 22px;
     }   
+}
 
-
+  
+ul {
+  font-size: 20px;  
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  margin:0;
+  padding:0;
+  display:flex;
+}
+    
+   
