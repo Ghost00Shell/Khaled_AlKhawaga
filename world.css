@@ -13,26 +13,17 @@ html, body {
     /* The universe is black */
     background-color: black;  
 }
+html, body {
+    /* The universe takes up all available space */
+    width: 100%;
+    height: 100%;
+  font-size: 100%;
 
 a {
   color: #fff;
   text-decoration: none;
 }
-.me {
-  width: 400px;
-  margin: 90px auto;
-}
-.me p,
-.me h1 {
-  letter-spacing: 3px;
-  text-align: center;
-}
-.me p {
-  font-weight: 200;
-}
-.me span {
-  font-weight: bold;
-}
+
 .social {
   position: fixed;
   top: 20px;
@@ -91,9 +82,9 @@ a {
   color: #000;
   background: #fff;
   padding: 10px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
   width: 20px;
   height: 20px;
   font-size: 20px;
