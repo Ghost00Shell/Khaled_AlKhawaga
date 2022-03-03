@@ -8,7 +8,10 @@
         <br>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet">
+      <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
+     <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
+<body> 
+ <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet">
 <div class="social-container">
     <ul class="social-icons">
       <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
@@ -17,12 +20,7 @@
         <li><a href="https://www.youtube.com/"><i class="fa fa-youtube"></i></a></li>
             <li><a href="https://github.com/"><i class="fa fa-github"></i></a></li>
     </ul>
-      <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
-     <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
-<body> 
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-   <audio controls loop autoplay height="" width="">
+    <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
      <script>alert("😎It is our great pleasure to have you on board!.A hearty welcome to you😎")</script>
 </body>
