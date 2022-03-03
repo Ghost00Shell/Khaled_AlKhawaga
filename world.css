@@ -21,10 +21,6 @@ html, body {
 }
 
 ul {
-  left:50%;
-  transform: translate(-50%, -50%);
-  margin:0;
-  padding:0;
   display:inline;
   text-align: center;
    position: absolute; bottom: 10px; left: 0;
