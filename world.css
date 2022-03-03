@@ -3,8 +3,8 @@ a:link    {color:#FF0000;  text-decoration:none}
 a:visited {color:#FF0000; text-decoration:none}
 a:hover   {color:#FF0000; text-decoration:underline} /* Yellow */
 decoration:underline} /* Yellow */
-i { font-size: 50px; }
-li.social-icon i { font-size: 50px; }
+i { font-size: 25px; }
+li.social-icon i { font-size: 25px; }
 /* ----------------------------- */
 html, body {
     /* The universe takes up all available space */
@@ -22,7 +22,8 @@ html, body {
 }
 
 ul {
-  font-size: 50px;  
+  font-size: 25px; 
+  text-align:center;
   position:bottom;
   transform: translate(-50%, -50%);
   margin:0;
