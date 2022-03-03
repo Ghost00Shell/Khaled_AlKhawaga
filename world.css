@@ -22,7 +22,7 @@ html, body {
 
 ul {
   font-size: 50px; 
-  position:absolute;
+  position:relative;
   margin:0;
   padding:0;
   display:flex;
