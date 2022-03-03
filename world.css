@@ -4,7 +4,7 @@ a:visited {color:#FF0000; text-decoration:none}
 a:hover   {color:#FF0000; text-decoration:underline} /* Yellow */
 decoration:underline} /* Yellow */
 i { font-size: 50px; }
-li.social-icon i { font-size: 50px; text-align: center;
+li.social-icon i { font-size: 50px; position: absolute;
  }
 /* ----------------------------- */
 html, body {
