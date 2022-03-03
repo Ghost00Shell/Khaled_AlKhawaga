@@ -3,7 +3,7 @@ a:link    {color:#FF0000;  text-decoration:none}
 a:visited {color:#FF0000; text-decoration:none}
 a:hover   {color:#FF0000; text-decoration:underline} /* Yellow */
 decoration:underline} /* Yellow */
-i { font-size: 25px; }
+i { font-size: 50px; }
 li.social-icon i { font-size: 50px; }
 /* ----------------------------- */
 html, body {
@@ -19,12 +19,7 @@ html, body {
     /* The universe is black */
     background-color: black;  
 }
-.social-container {
-  width: 400px;
-  margin: 40vh auto;
-  text-align: center;
-  position:bottom;
-}
+
 ul {
   text-align: center;
   position: absolute; bottom: 10px; left: 0;
