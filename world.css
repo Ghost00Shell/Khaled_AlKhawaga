@@ -4,13 +4,12 @@ a:visited {color:#FF0000; text-decoration:none}
 a:hover   {color:#FF0000; text-decoration:underline} /* Yellow */
 decoration:underline} /* Yellow */
 i { font-size: 25px; }
-li.social-icon i { font-size: 25px; }
+li.social-icon i { font-size: 50px; }
 /* ----------------------------- */
 html, body {
     /* The universe takes up all available space */
     width: 100%;
     height: 100%;
-  font-size: 25%;
 
  background-image: url("https://static.pexels.com/photos/110854/pexels-photo-110854-medium.jpeg");
   
@@ -22,7 +21,7 @@ html, body {
 }
 
 ul {
-  font-size: 25px; 
+  font-size: 50px; 
   position:bottom;
   transform: translate(-50%, -50%);
   margin:0;
