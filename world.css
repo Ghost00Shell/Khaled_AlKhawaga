@@ -25,9 +25,9 @@ ul li a {
   width:60px;
   height:60px;
   display:block;
-    text-align:center;}
+  text-align:center;}
 ul {
-  font-size: 100px;  
+  font-size: 50px;  
   position:bottom;
   transform: translate(-50%, -50%);
   margin:0;
