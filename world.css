@@ -19,10 +19,9 @@ font-size: 50px;
 }
 
 ul {
-  position:absolute; bottom: 10px; 
-  top:50%;
-  left:50%;
+  position:absolute; 
+  social-icon:bottom; 
   display:flex;
-    font-size: 50px;
+    font-size: 40px;
 }
     
