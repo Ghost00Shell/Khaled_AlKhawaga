@@ -8,6 +8,7 @@
         <br>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" rel="stylesheet">
 <div class="social-container">
     <ul class="social-icons">
       <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
