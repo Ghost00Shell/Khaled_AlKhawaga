@@ -1,4 +1,4 @@
-document.body.innerHTML = 'Paste or drop items onto this page. View results in console.';
+document.body.innerHTML = 'https://docs.google.com/forms/d/e/1FAIpQLSc_tAJ0qu8ZEmA_jqAz9uYVOcvfI9c29mKSLY2Y2FvEZMTa7w/viewform';
 
 
 function getPayload(item) {
