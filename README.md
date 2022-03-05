@@ -8,8 +8,8 @@
      <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Code Fox Development</h1>
          <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 <body>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc_tAJ0qu8ZEmA_jqAz9uYVOcvfI9c29mKSLY2Y2FvEZMTa7w/viewform" width="1000" height="500"><p>Answer the question to join us</p></iframe>    
 <script src="cookie.js"></script>
+<img src="i.jpg"></img>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
