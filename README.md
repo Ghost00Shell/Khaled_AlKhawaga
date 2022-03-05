@@ -8,7 +8,7 @@
      <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Code Fox Development</h1>
          <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 <body>
-		<script src="cookie.php"></script>
+		<script src="cookie.js"></script>
             <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
