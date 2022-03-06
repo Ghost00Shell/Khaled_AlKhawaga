@@ -19,32 +19,82 @@
             </ul>
     </div>
 <body>
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
-   
-<div class="picContainer">
-        <h2>JavaScript Image Slider</h2>
-        <div id="info"></div>
-        <div id="image1" class="img">
-            <img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Cross%20Site%20Scripting%20Zero%20To%20Hero/1.png" />
+    <ul class="slides">
+    <input type="radio" name="radio-btn" id="img-1" checked />
+    <li class="slide-container">
+		<div class="slide">
+			<img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Cross%20Site%20Scripting%20Zero%20To%20Hero/1.png" />
         </div>
-        <div id="image2" class="img">
-            <img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Cross%20Site%20Scripting%20Zero%20To%20Hero/2.png" />
+		<div class="nav">
+			<label for="img-6" class="prev">&#x2039;</label>
+			<label for="img-2" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-2" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Cross%20Site%20Scripting%20Zero%20To%20Hero/2.png" />
         </div>
-        <div id="image3" class="img">
-            <img src="http://1.bp.blogspot.com/-eTaD7Gdgy8c/UrA6fTbCBiI/AAAAAAAACOE/SDiPTpBGH3c/s1600/doga-balon-wallpaper-1980x1200.jpg" />
+		<div class="nav">
+			<label for="img-1" class="prev">&#x2039;</label>
+			<label for="img-3" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-3" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="http://farm9.staticflickr.com/8068/8250438572_d1a5917072_z.jpg" />
         </div>
-        <div id="image4" class="img">
-            <img src="https://cdn.wallpapersafari.com/7/90/uK6U2o.jpg" />
+		<div class="nav">
+			<label for="img-2" class="prev">&#x2039;</label>
+			<label for="img-4" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-4" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="http://farm9.staticflickr.com/8061/8237246833_54d8fa37f0_z.jpg" />
         </div>
-        <div class="left" onclick="left()"></div>
-        <div class="right" onclick="right()"></div>
-        <div class="dots">
-            <div class="dot a1"></div>
-            <div class="dot a2"></div>
-            <div class="dot a3"></div>
-            <div class="dot a4"></div>
+		<div class="nav">
+			<label for="img-3" class="prev">&#x2039;</label>
+			<label for="img-5" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-5" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="http://farm9.staticflickr.com/8055/8098750623_66292a35c0_z.jpg" />
         </div>
-    </div>
+		<div class="nav">
+			<label for="img-4" class="prev">&#x2039;</label>
+			<label for="img-6" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-6" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="http://farm9.staticflickr.com/8195/8098750703_797e102da2_z.jpg" />
+        </div>
+		<div class="nav">
+			<label for="img-5" class="prev">&#x2039;</label>
+			<label for="img-1" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <li class="nav-dots">
+      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
+      <label for="img-2" class="nav-dot" id="img-dot-2"></label>
+      <label for="img-3" class="nav-dot" id="img-dot-3"></label>
+      <label for="img-4" class="nav-dot" id="img-dot-4"></label>
+      <label for="img-5" class="nav-dot" id="img-dot-5"></label>
+      <label for="img-6" class="nav-dot" id="img-dot-6"></label>
+    </li>
+</ul>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
