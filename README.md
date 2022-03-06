@@ -28,8 +28,8 @@
     <div class="slide"><img src="https://raw.githubusercontent.com/Ghost00Shell/Khaled_AlKhawaga/main/Cross%20Site%20Scripting%20Zero%20To%20Hero/2.png"></div>
     </div> 
   <div class="slide_btn">
-    <a href="#" class="prev"><i class="fas fa-angle-left"></i></a>
-    <a href="#" class="next"><i class="fas fa-angle-right"></i></a>
+    <a class="prev"><i class="fas fa-angle-left"></i></a>
+    <a class="next"><i class="fas fa-angle-right"></i></a>
   </div>
 </div>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
