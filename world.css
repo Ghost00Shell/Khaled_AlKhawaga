@@ -39,15 +39,14 @@ h2{color: #2edf19; font-family: 'Lato'; font-weight: 300; padding: 20px; }
 
 .slide_wrap{
   width: 100%; padding: 10px 20px;
-  background: rgba(0, 0, 0, 0.1);
-  position: absolute; left: 50%; top: 50%;
+  position: bottom; left: 50%; top: 50%;
   transform: translate(-50%, -50%);
   box-sizing: border-box;
 }
 .slide_show{
   width: 860px;
   overflow: hidden;
-  position: relative;
+  position: bottom;
   margin: 10px auto;
 }
 .slide_show .slide_img{
@@ -61,7 +60,6 @@ h2{color: #2edf19; font-family: 'Lato'; font-weight: 300; padding: 20px; }
   transform: translateY(-50%);
   color: #fff;
   width: 60px; height: 60px; line-height: 58px;
-  background-color: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
   text-align: center;
   font-size: 28px;
