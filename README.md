@@ -19,6 +19,7 @@
 <a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
             </ul>
             </div>
+            <br>
 <h2>Cross Site Scripting</h2>
 <div class="slide_wrap">
   <div class="slide_show">
@@ -32,7 +33,7 @@
     <a href="#" class="next"><i class="fas fa-angle-right"></i></a>
   </div>
 </div>
-
+<br>
 <body> 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
