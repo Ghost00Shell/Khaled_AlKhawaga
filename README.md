@@ -18,6 +18,7 @@
 <a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
             </ul>
             </div>
+            </div>
  <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
 <body> 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
