@@ -19,6 +19,7 @@
             </ul>
     </div>
 <body>
+	<center>
     <ul class="slides">
     <input type="radio" name="radio-btn" id="img-1" checked />
     <li class="slide-container">
