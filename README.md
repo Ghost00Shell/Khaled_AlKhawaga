@@ -20,7 +20,7 @@
     </div>
 <body>
       <h1 style="color:#00ff00">Welcome To Earth</h1>
-	<video controls muted autoplay="autoplay">
+	<video controls muted autoplay="autoplay" height="1500" width="853">
   <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
 </video>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
