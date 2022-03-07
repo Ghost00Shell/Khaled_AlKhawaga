@@ -19,7 +19,9 @@
             </ul>
     </div>
 <body>
-	<video controls muted><source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"></video>
+	<video controls muted autoplay="autoplay">
+  <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
+</video>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
