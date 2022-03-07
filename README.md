@@ -1,6 +1,12 @@
 <html>
 <body>
 	<center>
+      <h1 style="color:#00ff00">Welcome To Earth</h1>
+		<br>
+	<video controls muted autoplay="autoplay" height="291" width="512">
+  <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
+</video></center>
+	<center>
      <h2 style="color:red">
     We are Anonymous.
     We are Legion.<br>
@@ -18,13 +24,7 @@
 <a class="li.social-icon" href="https://www.youtube.com/"><ion-icon name="logo-youtube"></ion-icon></a>
 <a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
             </ul>
-    </div>
-		<br><center>
-      <h1 style="color:#00ff00">Welcome To Earth</h1>
-		<br>
-	<video controls muted autoplay="autoplay" height="291" width="512">
-  <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
-</video></center>
+    </div></center>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
