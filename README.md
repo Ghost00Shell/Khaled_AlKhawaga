@@ -29,5 +29,5 @@
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src="Anonymous Hackers Song-We Are Anonymous.mp3"></audio>
-     <script>alert("🤖😎It is our great pleasure to have you on board!👨‍💻.A hearty welcome to you😎🤖")</script>
+     <script>alert("🤖😎It is our great pleasure to have you on board👨‍💻A hearty welcome to you😎🤖")</script>
 </body>
