@@ -3,7 +3,7 @@
 	<center>
       <h1 style="color:#00ff00">Welcome To Earth</h1>
 		<br>
-	<video controls muted autoplay="autoplay">
+	<video controls muted autoplay="autoplay" controls loop>
   <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
 </video></center>
 	<center>
