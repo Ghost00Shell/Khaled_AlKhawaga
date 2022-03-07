@@ -19,6 +19,7 @@
 <a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
             </ul>
     </div>
+		<br><center>
       <h1 style="color:#00ff00">Welcome To Earth</h1>
 		<br>
 	<video controls muted autoplay="autoplay" height="291" width="512">
