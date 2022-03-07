@@ -7,11 +7,11 @@
   <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
 </video></center>
 	<center>
-     <h2 style="color:red">
+     <h1 style="color:red">
     We are Anonymous.
     We are Legion.<br>
     We do not Forgive.
-    We do not Forget.<br>EXPECT US!!<br></h2>   
+    We do not Forget.<br>EXPECT US!!<br></h1>   
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
       <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
