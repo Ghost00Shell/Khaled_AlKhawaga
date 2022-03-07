@@ -1,5 +1,6 @@
 <html>
-    <center>
+<body>
+	<center>
      <h2 style="color:red">
     We are Anonymous.
     We are Legion.<br>
@@ -18,7 +19,6 @@
 <a class="li.social-icon" href="https://github.com/"><ion-icon name="logo-github"></ion-icon></a>
             </ul>
     </div>
-<body>
 	<center>
       <h1 style="color:#00ff00">Welcome To Earth</h1>
 		<br>
