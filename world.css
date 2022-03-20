@@ -3,7 +3,7 @@ a:link    {color:#FF0000;  text-decoration:none}
 a:visited {color:#FF0000; text-decoration:none}
 a:hover   {color:#00ff00; text-decoration:underline}
 i { font-size: 50px; }
-li.social-icon i { font-size: 50px; }
+li.social-icon i { font-size: 40px; }
 
 /* ----------------------------- */
 html, body {
@@ -23,7 +23,7 @@ font-size: 50px;
 ul {
   position:center; 
   social-icon:center; 
-  font-size: 50px;
+  font-size: 40px;
   text-align:center;
 }
     
