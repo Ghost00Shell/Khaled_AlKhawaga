@@ -23,11 +23,11 @@
       <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
     <div class="social">
             <ul class="social">
-<a class="li.social-icon" href="https://www.facebook.com/"><ion-icon name="Facebook"></ion-icon></a>
-<a class="li.social-icon" href="https://twitter.com/"><ion-icon name="Twitter"></ion-icon></a>
-<a class="li.social-icon" href="https://www.instagram.com/"><ion-icon name="Instagram"></ion-icon></a>
-<a class="li.social-icon" href="https://www.youtube.com/"><ion-icon name="Youtube"></ion-icon></a>
-<a class="li.social-icon" href="https://github.com/"><ion-icon name="Github"></ion-icon></a>
+<a class="li.social-icon" href="https://www.facebook.com/"><ion-icon name="Facebook">Facebook</ion-icon></a>
+<a class="li.social-icon" href="https://twitter.com/"><ion-icon name="Twitter"></ion-icon>Twitter</a>
+<a class="li.social-icon" href="https://www.instagram.com/"><ion-icon name="Instagram">Instagram</ion-icon></a>
+<a class="li.social-icon" href="https://www.youtube.com/"><ion-icon name="Youtube">Youtube</ion-icon></a>
+<a class="li.social-icon" href="https://github.com/"><ion-icon name="Github">Github</ion-icon></a>
             </ul>
     </div></center>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
