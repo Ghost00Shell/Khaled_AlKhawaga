@@ -7,6 +7,11 @@
 	<video controls muted autoplay="autoplay" controls loop>
   <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
 </video></center>
+	 Hello Friends 🥷<br>
+- 🌱 I’m Currently Learning Skills and Tools Required for Front-End Development & Back-End Development.<br>
+- 🔭 I’m Currently Working On Pentesting Tools.
+
+
 	<center>
      <h1 style="color:red">
     We are Anonymous.
