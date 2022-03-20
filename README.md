@@ -20,7 +20,7 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="world.css">
       <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
-      <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
+      <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1><br>
     <div class="social">
 	    <ul>
 <a class="li.social-icon" href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
