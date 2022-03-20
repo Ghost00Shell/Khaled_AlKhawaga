@@ -23,7 +23,6 @@ font-size: 50px;
 ul {
   position:center; 
   social-icon:center; 
-  display:flex;
   font-size: 40px;
   text-align:center;
 }
