@@ -6,8 +6,6 @@
 👨‍💻I Love To Hack (Legally)<br>
 🌱I’m Learning FrontEnd&BackEnd Development<br>
 🔭I’m Working On New Pentesting Tools</h2>
-
-
       <h1 style="color:#00ff00">Welcome To Earth</h1>
 	<video controls muted autoplay="autoplay" controls loop>
   <source src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4" type="video/mp4"/>
@@ -22,7 +20,7 @@
     <link rel="stylesheet" href="world.css">
       <h1 style="color:red">Ghost_Shell</h1><img src="https://i.ibb.co/SmLz9Fr/GHOOST.png"><br>
       <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Ghost_Shell</h1>
-<p align="center"> 
+<p class="center"> 
     <div class="social">
 <ul>
 	<a class="li.social-icon" href="https://www.facebook.com/"><ion-icon name="logo-facebook"></ion-icon></a>
