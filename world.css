@@ -21,8 +21,8 @@ font-size: 40px;
 }
 
 ul {
-  position:fixed; 
-  social-icon:bottom; 
+  position:center; 
+  social-icon:center; 
   font-size: 40px;
   text-align:center;
 }
