@@ -1,29 +1,24 @@
 <html>
- <head>
-  <meta charset="UTF-8">
-  <title>Ghost_Shell</title>
-  <script type="text/javascript">
-   var _gaq = _gaq || [];
-   _gaq.push(['_setAccount', 'UA-XXXXXXXX-Y']);
-   _gaq.push(['_trackPageview']);
-   (function()
-   {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-   })();
-  </script>
- </head>
- <body>
-  
-  <script type="text/javascript">
-   function autorun()
-   {
-    
-   }
-   if (document.addEventListener) document.addEventListener("DOMContentLoaded", autorun, false);
-   else if (document.attachEvent) document.attachEvent("onreadystatechange", autorun);
-   else window.onload = autorun;
-  </script>
- </body>
+<head>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://unpkg.com/jquery.terminal@2.x.x/js/jquery.terminal.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/jquery.terminal@2.x.x/css/jquery.terminal.min.css"/>
+<script>
+  $(function() {
+    $('body').terminal(function(command, term) {
+        var args = {cmd: "eval", val: command};
+        var jqxhr = $.get('http://192.168.1.2/cgi-bin/cmd', args)
+        .always(function (data) {
+          ret =  data.responseText.substring(data.responseText.lastIndexOf("----------------") + 17);
+          term.echo(ret);
+        });
+    }, {
+        greetings: 'PrinCube Shell',
+        prompt: '# '
+    });
+});
+</script>
+</head>
+<body>
+</body>
 </html>
