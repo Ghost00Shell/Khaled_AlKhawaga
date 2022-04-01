@@ -7,7 +7,7 @@
 🌱I’m Learning FrontEnd&BackEnd Development<br>
 🔭I’m Working On New Pentesting Tools</h2>
 	      <img src="Ramadan.png">
-<video controls autoplay="autoplay" controls loop>
+<video controls autoplay="autoplay">
   <source src="Ramadan Kareem.mp4" type="video/mp4"/>
 </video>
       <img src="Google.gif">
@@ -38,5 +38,5 @@
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src=""></audio>
-     <script>alert("😎Ramadan Mubarak 😎")</script>
+     <script>alert("😎🔮Ramadan Mubarak🔮😎")</script>
 </body>
