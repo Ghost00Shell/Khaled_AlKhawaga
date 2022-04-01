@@ -38,5 +38,5 @@
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
 <audio autoplay="true" src=""></audio>
-     <script>alert("😎It's our great pleasure to have you on board A hearty welcome to you😎")</script>
+     <script>alert("😎Ramadan Mubarak 😎")</script>
 </body>
