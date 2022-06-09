@@ -36,5 +36,5 @@
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
    <audio controls loop autoplay height="" width="">
      <script>alert("😎🔮Ramadan Mubarak🔮😎")</script>
-	   	<py-script src=main.py>khaled</py-script>
+	   	<py-script src=main.yml>khaled</py-script>
 </body>
